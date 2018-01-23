@@ -5,7 +5,7 @@ $(document).ready(function() {
     authDomain: 'mi-proyecto-3b344.firebaseapp.com',
     databaseURL: 'https://mi-proyecto-3b344.firebaseio.com',
     projectId: 'mi-proyecto-3b344',
-    storageBucket: '',
+    storageBucket: 'gs://mi-proyecto-3b344.appspot.com',
     messagingSenderId: '978784732774'
   };
   firebase.initializeApp(config);
